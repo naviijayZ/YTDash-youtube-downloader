@@ -26,3 +26,4 @@ A full-featured YouTube video downloader built with Python. This app supports:
   yt_dlp - For downloading videos and playlists
   ffmpeg - For MP4 to MP3 conversion
   pyinstaller - For packaging to .exe
+![image](https://github.com/user-attachments/assets/303477a3-d0f8-4d21-bd5e-fbaf35da2624)
